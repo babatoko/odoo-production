@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Odoo 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-01-15 10:41+0000\n"
-"PO-Revision-Date: 2016-07-15 14:00+0000\n"
+"PO-Revision-Date: 2017-03-07 08:34+0000\n"
 "Last-Translator: Jarmo Kortetjärvi <jarmo.kortetjarvi@gmail.com>\n"
 "Language-Team: Finnish (http://www.transifex.com/odoo/odoo-9/language/fi/)\n"
 "MIME-Version: 1.0\n"
@@ -369,7 +369,7 @@ msgstr "Osastot"
 #: model:ir.model.fields,field_description:hr.field_hr_employee_display_name
 #: model:ir.model.fields,field_description:hr.field_hr_job_display_name
 msgid "Display Name"
-msgstr "Näytä nimi"
+msgstr "Näyttönimi"
 
 #. module: hr
 #: selection:hr.employee,marital:0
@@ -558,7 +558,7 @@ msgstr "Ryhmittele"
 #. module: hr
 #: model:ir.model,name:hr.model_hr_department
 msgid "HR Department"
-msgstr ""
+msgstr "HR-osasto"
 
 #. module: hr
 #: model:ir.ui.view,arch_db:hr.view_employee_form
